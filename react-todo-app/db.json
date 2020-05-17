@@ -1,24 +1,3 @@
 {
-  "todos": [
-    {
-      "id": 1,
-      "name": "Learn Cypress",
-      "isComplete": false
-    },
-    {
-      "id": 2,
-      "name": "Write first cypress test",
-      "isComplete": false
-    },
-    {
-      "id": 3,
-      "name": "Celebrate",
-      "isComplete": false
-    },
-    {
-      "id": 4,
-      "name": "Write blog",
-      "isComplete": false
-    }
-  ]
+  "todos": []
 }
